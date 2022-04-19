@@ -5,7 +5,7 @@
 🍑Tech Stack🍑<br>
 ✔used as the main<br>
 
-<img src="https://img.shields.io/badge/JAVA-skyblue?style=flat&logo=JAVA&logoColor=007396"/><img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/JAVA-skyblue?style=flat&logo=JAVA&logoColor=007396"/> <img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=6DB33F"/>
 
 ✔used at least once
 
